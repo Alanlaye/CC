@@ -1,0 +1,4 @@
+1.注册Github账号，下载并安装mobirise软件，制作个人网页，上传到Github。
+2.Pandas的使用，数据处理的练习（李文亮小数据集）
+3.抓取豆瓣电影 Top 250 https://chengjun.github.io/mybook/04-crawler-douban.html
+4.进阶选做 抓取网易云音乐热门华语男或女歌手的所有音乐单曲的精彩评论 https://chengjun.github.io/mybook/04-crawler-netease-music.html
